@@ -1,0 +1,42 @@
+# macOS System Files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows System Files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+desktop.ini
+
+# Linux System Files
+*~
+.directory
+
+# IDEs & Code Editors
+.idea/
+*.swp
+*.swo
+*~
+
+# Archives and Temporary Files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.tmp
+*.log
+
+# Never ignore our media folders and assets
+!clips/
+!still/
+!exercises/
+!clips/*
+!still/*
+!exercises/*
+config.bat
+node_modules
